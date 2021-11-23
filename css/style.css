@@ -20,7 +20,27 @@ body {
 
 
 /*============= FOOTER =============*/
-
+i{
+color: aliceblue;
+font-size: xx-large;
+}
+i:hover{
+  color: red;
+}
+ul {
+  list-style-type: none;
+  max-width: 16rem;
+  margin: 0 auto;
+}
+#f:hover{
+  color:#4267B2 ;
+}
+#t:hover{
+  color: #1DA1F2;
+}
+#insta:hover{
+  color: #cd486b;
+}
 
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
